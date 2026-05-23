@@ -1,0 +1,219 @@
+2026-04-15 11:34:03 | IP: ::1 | User: 2 | Action: connexion | Details: Connexion réussie
+2026-04-15 11:35:07 | IP: ::1 | User: 2 | Action: reservation | Details: Réservation créée: #1
+2026-04-15 11:36:23 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-15 11:46:28 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-15 11:48:53 | IP: ::1 | User: 2 | Action: connexion | Details: Connexion réussie
+2026-04-15 11:50:03 | IP: ::1 | User: 2 | Action: paiement | Details: Paiement de 26.67 € - Réservation #1
+2026-04-15 11:52:10 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-15 12:18:02 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 3
+2026-04-15 12:18:08 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 2
+2026-04-15 12:18:12 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 1
+2026-04-15 12:23:24 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: Eldorado
+2026-04-15 13:00:24 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-15 17:35:08 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-15 17:48:44 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: admin@cite-univ.com - Mot de passe incorrect
+2026-04-15 17:52:25 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-15 17:59:53 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-15 18:02:35 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: CITE YELEEN
+2026-04-15 18:19:07 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: Eldorado
+2026-04-15 18:20:55 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-15 18:24:29 | IP: ::1 | User: 3 | Action: reservation | Details: Réservation créée: #2
+2026-04-15 18:49:42 | IP: ::1 | User: 3 | Action: paiement | Details: Paiement de 55000 € - Réservation #2
+2026-04-15 18:51:15 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-15 19:44:14 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-16 00:55:18 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-16 01:01:48 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: CITE PARADI
+2026-04-16 01:02:28 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: CITE PARADI
+2026-04-16 11:46:04 | IP: ::1 | User: 4 | Action: connexion | Details: Connexion réussie
+2026-04-16 12:26:07 | IP: ::1 | User: 4 | Action: reservation | Details: Réservation créée: #3
+2026-04-16 12:39:45 | IP: ::1 | User: 4 | Action: reservation | Details: Réservation créée: #4
+2026-04-16 12:42:21 | IP: ::1 | User: 4 | Action: reservation | Details: Réservation créée: #5
+2026-04-16 13:37:47 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-16 14:12:24 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-16 15:59:55 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-17 20:37:19 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-17 21:35:36 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: adoummahamatzene671@gmail.com - Mot de passe incorrect
+2026-04-17 21:35:53 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-17 22:14:26 | IP: ::1 | User: 3 | Action: reservation | Details: Réservation créée: #6
+2026-04-17 22:22:11 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-17 22:25:25 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-17 22:33:45 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-17 22:41:24 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-17 22:52:27 | IP: ::1 | User: 3 | Action: reservation | Details: Réservation créée: #7
+2026-04-17 22:55:33 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-17 22:59:42 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-18 09:51:10 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-22 12:20:16 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-22 12:24:07 | IP: ::1 | User: 3 | Action: reservation | Details: Réservation créée: #8
+2026-04-22 12:26:35 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-25 11:44:53 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-25 11:49:10 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-25 11:50:13 | IP: ::1 | User: 3 | Action: reservation | Details: Réservation créée: #9
+2026-04-25 11:52:40 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: admin@cite-univ.com - Mot de passe incorrect
+2026-04-25 11:53:17 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-25 11:54:15 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-25 11:56:00 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-27 17:37:46 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-27 17:46:53 | IP: ::1 | User: 3 | Action: reservation | Details: Réservation créée: #10
+2026-04-27 18:22:29 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-04-27 18:28:45 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-04-30 10:31:54 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: admin@cite-univ.com - Mot de passe incorrect
+2026-04-30 10:32:12 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-07 18:22:34 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: adoummahamatzene671@gmail.com - Mot de passe incorrect
+2026-05-07 18:22:45 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-05-07 18:24:38 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-07 18:30:41 | IP: ::1 | User: 1 | Action: ajout_chambre | Details: Chambre ajoutée: 08
+2026-05-07 18:35:52 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-05-07 18:47:43 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: admin@cite-univ.com - Mot de passe incorrect
+2026-05-07 18:47:51 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-09 10:37:25 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: adoummahamatzene671@gmail.com123456 - Utilisateur non trouvé
+2026-05-09 10:37:41 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: adoummahamatzene671@gmail.com123456 - Utilisateur non trouvé
+2026-05-09 10:38:05 | IP: ::1 | User: 3 | Action: connexion | Details: Connexion réussie
+2026-05-09 11:05:52 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-09 11:12:08 | IP: ::1 | User: 5 | Action: connexion | Details: Connexion réussie
+2026-05-09 11:16:47 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-12 14:20:09 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-12 14:27:04 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-12 14:27:44 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #11
+2026-05-12 14:31:31 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: Paris
+2026-05-12 14:33:01 | IP: ::1 | User: 1 | Action: ajout_chambre | Details: Chambre ajoutée: P1
+2026-05-12 15:13:20 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-12 15:14:27 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #12
+2026-05-12 15:16:35 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-12 15:43:32 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #13
+2026-05-12 16:13:44 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #14
+2026-05-12 16:26:55 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #15
+2026-05-12 16:32:12 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #16
+2026-05-12 16:34:30 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #17
+2026-05-12 19:06:34 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-12 19:31:31 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-12 19:51:21 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: aliadam@gmail.com - Mot de passe incorrect
+2026-05-12 19:53:29 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #18
+2026-05-12 19:55:03 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #19
+2026-05-12 19:56:19 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-12 19:59:06 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: aliadam@gmail.com - Mot de passe incorrect
+2026-05-12 19:59:22 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: aliadam@gmail.com - Mot de passe incorrect
+2026-05-12 19:59:33 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-12 20:00:59 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #20
+2026-05-12 20:04:15 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #21
+2026-05-15 16:35:06 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-15 16:36:45 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-15 16:37:54 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-15 16:41:10 | IP: ::1 | User: 1 | Action: ajout_chambre | Details: Chambre ajoutée: P2
+2026-05-16 13:14:34 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-16 13:25:29 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-16 13:26:10 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-16 13:37:53 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: baba
+2026-05-16 13:39:27 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: baba
+2026-05-16 13:39:33 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 8
+2026-05-16 13:39:39 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 9
+2026-05-16 13:39:59 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: Bjabqhk
+2026-05-16 18:58:47 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-16 19:00:33 | IP: ::1 | User: 6 | Action: reservation | Details: Réservation créée: #22
+2026-05-16 19:09:30 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-16 19:12:29 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-16 19:13:40 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: admin@cite-univ.com - Mot de passe incorrect
+2026-05-16 19:13:48 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: admin@cite-univ.com - Mot de passe incorrect
+2026-05-16 19:14:09 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-16 19:42:50 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: aliadam@gmail.com - Mot de passe incorrect
+2026-05-16 19:43:04 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-17 19:54:31 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-17 19:56:03 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: admin@cite-univ.com - Mot de passe incorrect
+2026-05-17 19:56:12 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: admin@cite-univ.com - Mot de passe incorrect
+2026-05-17 19:56:28 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-17 20:11:39 | IP: ::1 | User: 1 | Action: ajout_chambre | Details: Chambre ajoutée: P1
+2026-05-17 20:15:00 | IP: ::1 | User: 1 | Action: ajout_chambre | Details: Chambre ajoutée: O1
+2026-05-17 20:29:59 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: aliadam@gmail.com - Mot de passe incorrect
+2026-05-17 20:30:23 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-17 20:39:14 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-17 20:40:37 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-18 12:09:17 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-18 12:24:27 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-18 12:45:38 | IP: ::1 | User: 5 | Action: connexion | Details: Connexion réussie
+2026-05-18 13:03:36 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-18 13:35:06 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-18 13:39:55 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-18 13:43:09 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: adoummahamatzene671@gmail.com - Utilisateur non trouvé
+2026-05-18 13:43:20 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-18 14:23:27 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-18 14:51:55 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:53:22 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:53:50 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:54:14 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:55:01 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:55:24 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:56:20 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:56:54 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:57:10 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:57:24 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:57:36 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:58:14 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:58:31 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:58:44 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 14:59:52 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 15:00:31 | IP: ::1 | User: 1 | Action: ajout_cite | Details: Cité ajoutée: BABA DJO
+2026-05-18 15:01:07 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 26
+2026-05-18 15:01:12 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 11
+2026-05-18 15:01:18 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 12
+2026-05-18 15:01:24 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 13
+2026-05-18 15:01:28 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 14
+2026-05-18 15:01:34 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 16
+2026-05-18 15:01:38 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 17
+2026-05-18 15:01:42 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 18
+2026-05-18 15:01:47 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 19
+2026-05-18 15:01:52 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 20
+2026-05-18 15:01:56 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 21
+2026-05-18 15:02:01 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 22
+2026-05-18 15:02:05 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 23
+2026-05-18 15:02:13 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 25
+2026-05-18 15:02:19 | IP: ::1 | User: 1 | Action: suppression_cite | Details: Cité supprimée ID: 24
+2026-05-18 15:13:19 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-18 15:14:11 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-18 15:23:41 | IP: ::1 | User: 1 | Action: confirmation_reservation | Details: Réservation #24 confirmée
+2026-05-18 15:26:51 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: aliadam@gmail.com - Mot de passe incorrect
+2026-05-18 15:27:09 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-18 15:29:56 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: moussayaya@gmail.com - Mot de passe incorrect
+2026-05-18 15:30:09 | IP: ::1 | User: 5 | Action: connexion | Details: Connexion réussie
+2026-05-18 15:31:32 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-18 15:34:19 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-19 11:20:34 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-19 11:35:31 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: admin@cite-univ.com - Mot de passe incorrect
+2026-05-19 11:35:46 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-19 11:40:17 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-19 12:01:57 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-21 11:38:52 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-21 11:40:20 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: CITE PARADI
+2026-05-21 11:42:00 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: AMIRA CITE
+2026-05-21 11:42:50 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: BABA DJO
+2026-05-21 11:43:02 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: BABA DJO
+2026-05-21 11:43:34 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: BABA DJO
+2026-05-21 11:44:19 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: Eldorado
+2026-05-21 11:44:57 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: Eldorado
+2026-05-21 11:45:42 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: SANS RIVAL CITE
+2026-05-21 11:46:21 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: BABA DJO
+2026-05-21 11:47:21 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: PACS DES PRINCES
+2026-05-21 11:48:13 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: CITE YELEEN
+2026-05-21 11:49:33 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: CITE YELEEN
+2026-05-21 11:50:12 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: CITE YELEEN
+2026-05-21 11:50:52 | IP: ::1 | User: 1 | Action: modification_cite | Details: Cité modifiée: ONE LOVE CITE
+2026-05-21 13:02:54 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-21 19:46:51 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-21 20:10:37 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-21 20:14:36 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-21 20:16:11 | IP: ::1 | User: 1 | Action: ajout_chambre | Details: Chambre ajoutée: L1
+2026-05-21 20:26:11 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: aliadam@gmail.com - Mot de passe incorrect
+2026-05-21 20:26:20 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-21 20:49:41 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: admin@cite-univ.com - Mot de passe incorrect
+2026-05-21 20:50:01 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-21 20:56:39 | IP: ::1 | User: 5 | Action: connexion | Details: Connexion réussie
+2026-05-21 20:59:46 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-21 21:21:01 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: admin@cite-univ.com - Mot de passe incorrect
+2026-05-21 21:21:23 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-22 12:23:16 | IP: ::1 | User: Guest | Action: tentative_connexion_echouee | Details: Email: aliadam@gmail.com - Mot de passe incorrect
+2026-05-22 12:23:41 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-22 14:35:31 | IP: ::1 | User: 6 | Action: connexion | Details: Connexion réussie
+2026-05-22 14:36:08 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-22 14:37:25 | IP: ::1 | User: 5 | Action: connexion | Details: Connexion réussie
+2026-05-22 14:41:45 | IP: ::1 | User: 7 | Action: connexion | Details: Connexion réussie
+2026-05-22 14:42:41 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
+2026-05-22 15:02:46 | IP: ::1 | User: 1 | Action: connexion | Details: Connexion réussie
